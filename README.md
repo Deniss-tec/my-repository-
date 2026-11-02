@@ -7,7 +7,13 @@
     <title>Мой первый сайт</title>
 
     <style>
-        body {
+
+<a href="mailto:example@gmail.com" class="btn">
+    Связаться со мной
+</a>
+
+        body
+{
             background-color: #101827;
             color: white;
             font-family: Arial, sans-serif;
