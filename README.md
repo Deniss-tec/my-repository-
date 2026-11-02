@@ -7,6 +7,22 @@
     <title>Мой первый сайт</title>
 
     <style>
+.btn {
+    display: inline-block;
+    background: #2563eb;
+    color: white;
+    padding: 14px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #1d4ed8;
+    transform: scale(1.05);
+}
 
 <a href="mailto:example@gmail.com" class="btn">
     Связаться со мной
